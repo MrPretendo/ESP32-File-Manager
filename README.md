@@ -38,6 +38,7 @@ Mi objetivo es proporcionar a la comunidad una solución accesible y funcional p
 ## Instalación
 
 1. Clona este repositorio o descarga el archivo ZIP.
+1. Clona este repositorio o descarga los archivos.
    ```
    git clone https://github.com/MrPretendo/ESP32-File-Manager.git
    ```
