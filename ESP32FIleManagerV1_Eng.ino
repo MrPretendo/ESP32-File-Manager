@@ -4,7 +4,6 @@
 #include <WiFiManager.h>
 #include <WiFi.h>
 #include <WebServer.h>
-#include <FS.h>
 #include <SPIFFS.h>
 
 // Web server instance
